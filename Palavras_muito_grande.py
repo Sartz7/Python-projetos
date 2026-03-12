@@ -11,4 +11,4 @@ if palavras_longas:
     for palavra in palavras_longas:
         print(palavra) 
 
-else:    print("Nenhuma palavra com mais de 10 caracteres foi encontrada.") 
+else: print("Nenhuma palavra com mais de 10 caracteres foi encontrada.") 
